@@ -7,16 +7,16 @@ Aplicação desenvolvida com o fim de testar a manipulação de dados no MongoDB
 Use o [yarn](https://yarnpkg.com/) para iniciar a instalação.
 
 ```bash
-git clone 
-cd api-music-mongo
+git clone https://github.com/lemosantony/mongo-indexes.git
+cd mongo-indexes
 yarn install
 ```
 
 ou, caso deseje utilizar o npm
 
 ```bash
-git clone 
-cd api-music-mongo
+git clone https://github.com/lemosantony/mongo-indexes.git
+cd mongo-indexes
 npm install
 ```
 
