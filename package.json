@@ -1,0 +1,17 @@
+{
+  "name": "mongo-indexes",
+  "version": "1.0.0",
+  "description": "Mongo Indexes app",
+  "main": "src/index.js",
+  "author": "Antony Lemos",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
